@@ -124,7 +124,7 @@ function App() {
           <p>ทั้งหมด: {total}฿</p>
           <p>ค่าจัดส่ง: 100฿</p>
           <p>คูปองส่วนลด: {discount * 100}%</p>
-          <p className="font-bold">รวมสิ้นค้าและค่าจัดส่ง: {totalWithShipping}฿</p>
+          <p className="font-bold">รวมราคาสินค้าและค่าจัดส่ง: {totalWithShipping}฿</p>
 
           <input
             type="text"
